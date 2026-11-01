@@ -1,0 +1,99 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.bg{fill:#070b16}
+.title{
+fill:#f7f9ff;
+font-size:72px;
+font-family:Arial,Helvetica,sans-serif;
+font-weight:800;
+letter-spacing:2px;
+}
+.subtitle{
+fill:#247bff;
+font-size:22px;
+font-family:Arial,Helvetica,sans-serif;
+font-weight:700;
+letter-spacing:3px;
+}
+.desc{
+fill:#c6d0e3;
+font-size:20px;
+font-family:Arial,sans-serif;
+}
+.small{
+fill:#8ea2c9;
+font-size:18px;
+font-family:Arial,sans-serif;
+}
+.glow{
+filter:url(#glow);
+}
+.card{
+fill:#0d1222;
+stroke:#247bff;
+stroke-opacity:.35;
+rx:24;
+}
+</style>
+
+<defs>
+<linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#247bff"/>
+<stop offset="100%" stop-color="#ff354f"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="12" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+</defs>
+
+<rect class="bg" width="1200" height="600"/>
+
+<g opacity="0.08">
+<path d="M0 60 H1200" stroke="#247bff"/>
+<path d="M0 120 H1200" stroke="#247bff"/>
+<path d="M0 180 H1200" stroke="#247bff"/>
+<path d="M0 240 H1200" stroke="#247bff"/>
+<path d="M0 300 H1200" stroke="#247bff"/>
+<path d="M0 360 H1200" stroke="#247bff"/>
+<path d="M0 420 H1200" stroke="#247bff"/>
+<path d="M0 480 H1200" stroke="#247bff"/>
+<path d="M0 540 H1200" stroke="#247bff"/>
+</g>
+
+<circle cx="900" cy="180" r="180" fill="#247bff" opacity=".08" class="glow"/>
+<circle cx="1020" cy="350" r="140" fill="#ff354f" opacity=".08" class="glow"/>
+
+<rect x="60" y="70" width="680" height="450" rx="24" class="card"/>
+
+<text x="90" y="140" class="subtitle">HELLO, I'M</text>
+
+<text x="90" y="240" class="title">YALLALING</text>
+
+<text x="90" y="300" class="subtitle">
+AVIONICS SOFTWARE ENGINEER
+</text>
+
+<text x="90" y="360" class="desc">
+Building and verifying safety-critical embedded software
+</text>
+
+<text x="90" y="395" class="desc">
+using C, C++, Embedded C, Ada and DO-178C practices.
+</text>
+
+<text x="90" y="460" class="small">
+📍 Bengaluru, Karnataka, India
+</text>
+
+<text x="90" y="495" class="small">
+🏢 TECLEVER SOLUTIONS PVT. LTD.
+</text>
+
+<text x="850" y="480"
+fill="#247bff"
