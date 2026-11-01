@@ -1,1 +1,58 @@
-<image href="./right_pointing.png">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 750">
+
+<rect width="800" height="750" fill="#070b16"/>
+
+<line x1="400" y1="0" x2="400" y2="120"
+stroke="#d0d0d0"
+stroke-width="8"/>
+
+<circle cx="400" cy="120" r="18" fill="#c0c0c0"/>
+
+<rect x="220" y="120"
+width="360"
+height="500"
+rx="25"
+fill="#f5f5f5"/>
+
+<text x="300" y="220"
+fill="#111827"
+font-size="40"
+font-family="Arial"
+font-weight="bold">
+ID CARD
+</text>
+
+<text x="290" y="320"
+fill="#111827"
+font-size="30"
+font-family="Arial">
+Yallaling
+</text>
+
+<text x="245" y="380"
+fill="#333"
+font-size="20"
+font-family="Arial">
+Avionics Software Engineer
+</text>
+
+<text x="260" y="430"
+fill="#555"
+font-size="18"
+font-family="Arial">
+TECLEVER SOLUTIONS
+</text>
+
+<text x="295" y="470"
+fill="#555"
+font-size="18"
+font-family="Arial">
+Bengaluru
+</text>
+
+<rect x="260" y="520"
+width="280"
+height="40"
+fill="#111827"/>
+
+</svg>
