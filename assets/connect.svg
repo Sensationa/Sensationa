@@ -1,77 +1,83 @@
-<svg width="1200" height="700" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 550">
 
-<style>
-.bg{fill:#070b16}
-.card{
-fill:#0e1528;
-stroke:#247bff55;
-stroke-width:2;
-rx:24;
-}
-.title{
-fill:#f7f9ff;
-font-size:54px;
-font-family:Arial,Helvetica,sans-serif;
-font-weight:800;
-}
-.label{
-fill:#247bff;
-font-size:18px;
-font-family:Arial,Helvetica,sans-serif;
-font-weight:700;
-}
-.link{
-fill:#f7f9ff;
-font-size:22px;
-font-family:Arial,Helvetica,sans-serif;
-}
-</style>
+<rect width="1200" height="550" fill="#070b16"/>
 
-<rect width="1200" height="700" class="bg"/>
-
-<circle cx="920" cy="250" r="180" fill="#247bff" opacity=".08"/>
-<circle cx="1020" cy="420" r="220" fill="#ff354f" opacity=".08"/>
-
-<text x="650" y="90" class="title">
-Let's Connect
+<text x="60" y="80"
+fill="white"
+font-size="52"
+font-family="Arial"
+font-weight="bold">
+CONNECT
 </text>
 
-<image
-href="./right_pointing.png"
-x="0"
-y="80"
-width="520"
-height="520"
-/>
+<rect x="60" y="140" width="500" height="300" rx="25"
+fill="#10192f" stroke="#247bff"/>
 
-<rect class="card" x="620" y="130" width="500" height="70"/>
-<text x="650" y="160" class="label">GITHUB</text>
-<text x="650" y="188" class="link">github.com/Sensationa</text>
+<text x="90" y="220"
+fill="#247bff"
+font-size="26"
+font-family="Arial">
+GitHub
+</text>
 
-<rect class="card" x="620" y="220" width="500" height="70"/>
-<text x="650" y="250" class="label">LINKEDIN</text>
-<text x="650" y="278" class="link">linkedin.com/in/yallaling03</text>
+<text x="90" y="260"
+fill="white"
+font-size="20"
+font-family="Arial">
+github.com/Sensationa
+</text>
 
-<rect class="card" x="620" y="310" width="500" height="70"/>
-<text x="650" y="340" class="label">PORTFOLIO</text>
-<text x="650" y="368" class="link">yallalingaerotech.lovable.app</text>
+<text x="90" y="320"
+fill="#247bff"
+font-size="26">
+LinkedIn
+</text>
 
-<rect class="card" x="620" y="400" width="500" height="70"/>
-<text x="650" y="430" class="label">YOUTUBE</text>
-<text x="650" y="458" class="link">UC6rqZommeFUJnQlQixMJNIA</text>
+<text x="90" y="360"
+fill="white"
+font-size="20">
+linkedin.com/in/yallaling03
+</text>
 
-<rect class="card" x="620" y="490" width="500" height="70"/>
-<text x="650" y="520" class="label">INSTAGRAM</text>
-<text x="650" y="548" class="link">@yallaling_poojarii</text>
+<text x="90" y="420"
+fill="#247bff"
+font-size="26">
+Portfolio
+</text>
 
-<text
-x="620"
-y="640"
+<text x="90" y="460"
+fill="white"
+font-size="20">
+yallalingaerotech.lovable.app
+</text>
+
+<rect x="700" y="160"
+width="350"
+height="220"
+rx="20"
+fill="#10192f"
+stroke="#ff354f"/>
+
+<text x="760" y="250"
 fill="#ff354f"
-font-size="22"
+font-size="32"
 font-family="Arial"
-font-weight="700">
-Aerospace • Embedded • Verification • AI
+font-weight="bold">
+LET'S BUILD
+</text>
+
+<text x="760" y="310"
+fill="white"
+font-size="24"
+font-family="Arial">
+Aerospace
+</text>
+
+<text x="760" y="345"
+fill="white"
+font-size="24"
+font-family="Arial">
+Embedded Systems
 </text>
 
 </svg>
