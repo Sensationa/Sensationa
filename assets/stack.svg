@@ -1,1 +1,50 @@
-<image href="./id.png">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 550">
+
+<rect width="1200" height="550" fill="#070b16"/>
+
+<text x="60" y="80"
+fill="white"
+font-size="50"
+font-family="Arial"
+font-weight="bold">
+TECH STACK
+</text>
+
+<rect x="50" y="120" width="320" height="330" rx="25"
+fill="#10192f" stroke="#247bff"/>
+
+<text x="130" y="170" fill="#247bff" font-size="28" font-family="Arial">
+AEROSPACE
+</text>
+
+<text x="90" y="230" fill="white" font-size="22">C</text>
+<text x="90" y="270" fill="white" font-size="22">C++</text>
+<text x="90" y="310" fill="white" font-size="22">Ada</text>
+<text x="90" y="350" fill="white" font-size="22">Embedded C</text>
+<text x="90" y="390" fill="white" font-size="22">DO‑178C</text>
+
+<rect x="440" y="120" width="320" height="330" rx="25"
+fill="#10192f" stroke="#ff354f"/>
+
+<text x="550" y="170" fill="#ff354f" font-size="28" font-family="Arial">
+WEB
+</text>
+
+<text x="500" y="230" fill="white" font-size="22">Java</text>
+<text x="500" y="270" fill="white" font-size="22">JavaScript</text>
+<text x="500" y="310" fill="white" font-size="22">HTML</text>
+<text x="500" y="350" fill="white" font-size="22">CSS</text>
+<text x="500" y="390" fill="white" font-size="22">SQL</text>
+
+<rect x="830" y="120" width="320" height="330" rx="25"
+fill="#10192f" stroke="#247bff"/>
+
+<text x="960" y="170" fill="#247bff" font-size="28" font-family="Arial">
+AI
+</text>
+
+<text x="900" y="230" fill="white" font-size="22">Machine Learning</text>
+<text x="900" y="270" fill="white" font-size="22">Deep Learning</text>
+<text x="900" y="310" fill="white" font-size="22">CNN</text>
+
+</svg>
