@@ -1,67 +1,75 @@
-👨‍💻 About Me
-Avionics Software Engineer specializing in safety-critical embedded systems, software verification, and aerospace software development.
+# Hi, I'm Yallaling 👋
 
-Currently working at TECLEVER SOLUTIONS PVT. LTD. on aerospace and defence programmes, contributing to embedded software development, verification, validation, and DO-178C compliance activities.
+### Avionics Software Engineer | Embedded Systems | Aerospace & Defence
 
-Core Expertise
-Avionics Software Engineering
-Embedded Systems Development
-Aerospace Software Verification
-Verification & Validation (V&V)
-DO-178C Compliance
-Static Analysis
-Full-Stack Development
-Machine Learning
-🔧 Technology Stack
-Aerospace & Embedded
-C C++ Embedded C Ada
+Building and verifying safety-critical embedded software with **C, C++, Embedded C, Ada, DO-178C, Verification & Validation, LDRA, and Polyspace**.
 
-DO-178C LDRA Polyspace
+---
 
-Software Verification
+## ✈️ About Me
 
-V&V
+- 🚀 Avionics Software Engineer
+- 🏢 TECLEVER SOLUTIONS PVT. LTD.
+- 📍 Bengaluru, Karnataka, India
+- 🎓 B.E. Computer Science & Engineering
+- ✅ Aerospace & Defence Software Development
+- ✅ DO-178C Compliance
+- ✅ Software Verification & Validation
+- ✅ Embedded Systems Development
+- ✅ Full Stack Development
+- ✅ Machine Learning
 
-Web Development
-Java
+---
 
-JavaScript
+## 🔧 Technology Stack
 
-HTML
+### Aerospace & Embedded
 
-CSS
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Ada](https://img.shields.io/badge/Ada-1A1A1A?style=for-the-badge)
+![Embedded C](https://img.shields.io/badge/Embedded_C-blue?style=for-the-badge)
 
-SQL
+### Verification
 
-AI & Machine Learning
-Machine Learning
+![DO-178C](https://img.shields.io/badge/DO--178C-red?style=for-the-badge)
+![LDRA](https://img.shields.io/badge/LDRA-yellow?style=for-the-badge)
+![Polyspace](https://img.shields.io/badge/Polyspace-orange?style=for-the-badge)
 
-Deep Learning
+### Web Development
 
-CNN
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/SQL-darkgreen?style=for-the-badge)
 
-🚀 Featured Projects
-Project	Description
-LRLACM-02	Aerospace and defence embedded software development, verification, validation, and safety-critical engineering
-Parking Management System	Web-based parking automation platform with vehicle logging and administrative dashboard
-Plant Leaf Disease Detection	CNN-powered disease classification system achieving 95%+ classification accuracy
-📍 Location
-Bengaluru, Karnataka, India
+### AI & Machine Learning
 
-🌐 Connect
-GitHub
-https://github.com/Sensationa
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-green?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-darkgreen?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-purple?style=for-the-badge)
 
-LinkedIn
-https://www.linkedin.com/in/yallaling03
+---
 
-Portfolio
-https://yallalingaerotech.lovable.app/
+## 🚀 Featured Projects
 
-YouTube
-https://www.youtube.com/channel/UC6rqZommeFUJnQlQixMJNIA
+| Project | Description |
+|----------|-------------|
+| **LRLACM-02** | Aerospace & defence embedded software development, verification and validation |
+| **Parking Management System** | Automated parking solution with vehicle tracking and admin dashboard |
+| **Plant Leaf Disease Detection** | CNN-based disease classification system with 95%+ accuracy |
 
-Instagram
-https://www.instagram.com/yallaling_poojarii/
+---
 
-✈️ Aerospace • Embedded • Verification • Software Engineering
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/Sensationa
+- LinkedIn: https://www.linkedin.com/in/yallaling03
+- Portfolio: https://yallalingaerotech.lovable.app/
+- YouTube: https://www.youtube.com/channel/UC6rqZommeFUJnQlQixMJNIA
+- Instagram: https://www.instagram.com/yallaling_poojarii/
+
+---
+
+### ✈ Aerospace • Embedded • Verification • Software Engineering
