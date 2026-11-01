@@ -4,6 +4,6 @@
 
 ![Stack](./assets/stack.svg)
 
-![ID Card](./assets/id-card.svg)
+![ID Card](./assets/id-dashboard.svg)
 
 ![Connect](./assets/connect.svg)
