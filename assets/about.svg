@@ -1,1 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500">
 
+<rect width="1200" height="500" fill="#070b16"/>
+
+<text x="60" y="80" fill="white" font-size="52" font-family="Arial" font-weight="bold">
+ABOUT
+</text>
+
+<rect x="60" y="120" width="500" height="300" rx="25"
+fill="#10192f" stroke="#247bff"/>
+
+<text x="100" y="180" fill="#247bff" font-size="28" font-family="Arial">
+Core Expertise
+</text>
+
+<text x="100" y="240" fill="white" font-size="22" font-family="Arial">
+✈ Aerospace &amp; Defence
+</text>
+
+<text x="100" y="285" fill="white" font-size="22" font-family="Arial">
+⚙ Embedded Systems
+</text>
+
+<text x="100" y="330" fill="white" font-size="22" font-family="Arial">
+✅ DO‑178C Compliance
+</text>
+
+<text x="100" y="375" fill="white" font-size="22" font-family="Arial">
+🔍 Verification &amp; Validation
+</text>
+
+<rect x="660" y="120" width="460" height="300" rx="25"
+fill="#10192f" stroke="#ff354f"/>
+
+<text x="720" y="180"
+fill="#ff354f"
+font-size="28"
+font-family="Arial">
+Current Focus
+</text>
+
+<text x="720" y="240" fill="white" font-size="22" font-family="Arial">
+Ada Programming
+</text>
+
+<text x="720" y="285" fill="white" font-size="22" font-family="Arial">
+Embedded C Development
+</text>
+
+<text x="720" y="330" fill="white" font-size="22" font-family="Arial">
+Software Verification
+</text>
+
+<text x="720" y="375" fill="white" font-size="22" font-family="Arial">
+Safety‑Critical Software
+</text>
+
+</svg>
