@@ -1,0 +1,77 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.bg{fill:#070b16}
+.card{
+fill:#0e1528;
+stroke:#247bff55;
+stroke-width:2;
+rx:24;
+}
+.title{
+fill:#f7f9ff;
+font-size:54px;
+font-family:Arial,Helvetica,sans-serif;
+font-weight:800;
+}
+.label{
+fill:#247bff;
+font-size:18px;
+font-family:Arial,Helvetica,sans-serif;
+font-weight:700;
+}
+.link{
+fill:#f7f9ff;
+font-size:22px;
+font-family:Arial,Helvetica,sans-serif;
+}
+</style>
+
+<rect width="1200" height="700" class="bg"/>
+
+<circle cx="920" cy="250" r="180" fill="#247bff" opacity=".08"/>
+<circle cx="1020" cy="420" r="220" fill="#ff354f" opacity=".08"/>
+
+<text x="650" y="90" class="title">
+Let's Connect
+</text>
+
+<image
+href="./right_pointing.png"
+x="0"
+y="80"
+width="520"
+height="520"
+/>
+
+<rect class="card" x="620" y="130" width="500" height="70"/>
+<text x="650" y="160" class="label">GITHUB</text>
+<text x="650" y="188" class="link">github.com/Sensationa</text>
+
+<rect class="card" x="620" y="220" width="500" height="70"/>
+<text x="650" y="250" class="label">LINKEDIN</text>
+<text x="650" y="278" class="link">linkedin.com/in/yallaling03</text>
+
+<rect class="card" x="620" y="310" width="500" height="70"/>
+<text x="650" y="340" class="label">PORTFOLIO</text>
+<text x="650" y="368" class="link">yallalingaerotech.lovable.app</text>
+
+<rect class="card" x="620" y="400" width="500" height="70"/>
+<text x="650" y="430" class="label">YOUTUBE</text>
+<text x="650" y="458" class="link">UC6rqZommeFUJnQlQixMJNIA</text>
+
+<rect class="card" x="620" y="490" width="500" height="70"/>
+<text x="650" y="520" class="label">INSTAGRAM</text>
+<text x="650" y="548" class="link">@yallaling_poojarii</text>
+
+<text
+x="620"
+y="640"
+fill="#ff354f"
+font-size="22"
+font-family="Arial"
+font-weight="700">
+Aerospace • Embedded • Verification • AI
+</text>
+
+</svg>
